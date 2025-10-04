@@ -1,3 +1,11 @@
 Welcome
 
+<<<<<<< HEAD
 shell scriptare automation
+=======
+Devops 
+
+docker
+
+cicd
+>>>>>>> 1e80b847c6b8780c41cbc4c86644edf21cd88018
