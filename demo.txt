@@ -2,6 +2,7 @@ Welcome to GIT class
 
 git commands
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 -------------------------------------------
@@ -13,3 +14,8 @@ asus
 
 
 master
+=======
+----------------------------------------
+
+Hi this is Dev branch
+>>>>>>> 0b998681a22e2afd196d1655f60b26598bff6878
