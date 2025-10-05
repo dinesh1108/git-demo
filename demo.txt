@@ -3,6 +3,10 @@ Welcome to GIT class
 git commands
 
 
+<<<<<<< HEAD
 -------------------------------------------
 
 It revolution
+=======
+asus
+>>>>>>> dev
